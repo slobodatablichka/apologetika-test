@@ -205,3 +205,12 @@
 Локальные оригиналы Word и фотографий слайдов не изменять. Темы 2 и 12 не создавать без источников. Три дополнительных документа не считать лекциями без решения пользователя. Оригинальный тест из 48 вопросов остаётся отдельным и неизменным.
 
 Статус выпуска каждой лекции вести в `LECTURE-PRODUCTION.md`; тематическую структуру — в `CURRICULUM.md`, исходные документы — в `APOLOGETIKA-DOCUMENT-PASSPORTS.md`.
+
+
+## 12. Постоянный источник слайдов (10 октября 2026)
+
+Фотографии слайдов курса **уже опубликованы** отдельно: репозиторий [`slobodatablichka/diafilm`](https://github.com/slobodatablichka/diafilm), каталог [`albums/apologetika/images/`](https://github.com/slobodatablichka/diafilm/tree/main/albums/apologetika/images) — **234 JPG**. Порядок изображений описан в [`albums/apologetika/manifest.json`](https://github.com/slobodatablichka/diafilm/blob/main/albums/apologetika/manifest.json). Действующий самостоятельный диафильм: https://slobodatablichka.github.io/diafilm/albums/apologetika/.
+
+**Разделение ролей:** `diafilm` хранит оригинальные фотографии; `apologetika-test` — дикторские тексты, сценарии показа, звуковые файлы, учебные страницы и тесты. Модули используют прямые адреса опубликованных JPG: `https://slobodatablichka.github.io/diafilm/albums/apologetika/images/<имя-файла>.jpg`. Фотографии не дублировать в `apologetika-test`, не перемещать и не переименовывать без согласованной коррекции ссылок. Локальная копия: `C:\Projects\5k9s_Apologetika\sources\slides\`.
+
+Для каждой лекции отдельно утверждать выбор и последовательность слайдов, сопоставленные с фрагментами дикторского текста. **Обычный диафильм** с интервалом переключения и **учебная озвученная лекция** с временными метками по реальному аудио — разные режимы; не менять существующий диафильм ради синхронизации новых лекций. Новый медиарепозиторий не требуется. Детали — в `LECTURE-PRODUCTION.md`.
