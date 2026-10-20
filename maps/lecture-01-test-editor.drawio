@@ -70,153 +70,153 @@
     </mxGraphModel>
   </diagram>
   <diagram id="question-1-2-1-1" name="1.2.1.1">
-    <mxGraphModel page="1" pageWidth="1120" pageHeight="876" grid="1" gridSize="10">
+    <mxGraphModel dx="1945" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="876" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="header" value="ЛЕКЦИЯ 1 · ВОПРОС 1.2.1.1 · БЛОК 1.2.1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="22" width="1050" height="62" as="geometry" />
+        <mxCell id="header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="ЛЕКЦИЯ 1 · ВОПРОС 1.2.1.1 · БЛОК 1.2.1" vertex="1">
+          <mxGeometry height="62" width="1050" x="24" y="22" as="geometry" />
         </mxCell>
-        <mxCell id="question" value="Авторы классификации более 150 определений культуры?" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="99" width="1050" height="105" as="geometry" />
+        <mxCell id="question" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" value="Назовите авторов классификации более 150 определений культуры:" vertex="1">
+          <mxGeometry height="105" width="1050" x="24" y="99" as="geometry" />
         </mxCell>
-        <mxCell id="choice_1" value="✓ Крёбер и Клакхон" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="219" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Крёбер и Клакхон" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="219" as="geometry" />
         </mxCell>
-        <mxCell id="choice_2" value="Тайлор и Морган" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="303" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Тайлор и Морган" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="303" as="geometry" />
         </mxCell>
-        <mxCell id="choice_3" value="Дюркгейм и Вебер" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="387" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Дюркгейм и Вебер" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="387" as="geometry" />
         </mxCell>
-        <mxCell id="explanation" value="Лекция приписывает шесть типов определений антропологам Крёберу и Клакхону." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="471" width="1050" height="114" as="geometry" />
+        <mxCell id="explanation" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" value="Лекция приписывает шесть типов определений антропологам Крёберу и Клакхону." vertex="1">
+          <mxGeometry height="114" width="1050" x="24" y="471" as="geometry" />
         </mxCell>
-        <mxCell id="difficulty" value="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="600" width="1050" height="58" as="geometry" />
+        <mxCell id="difficulty" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="2" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="reference" value="19–32" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="673" width="1050" height="58" as="geometry" />
+        <mxCell id="reference" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="19–32" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="673" as="geometry" />
         </mxCell>
-        <mxCell id="note" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="746" width="1050" height="70" as="geometry" />
+        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." vertex="1">
+          <mxGeometry height="70" width="1050" x="24" y="746" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="question-1-2-1-2" name="1.2.1.2">
-    <mxGraphModel page="1" pageWidth="1120" pageHeight="1044" grid="1" gridSize="10">
+    <mxGraphModel dx="1945" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="1044" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="header" value="ЛЕКЦИЯ 1 · ВОПРОС 1.2.1.2 · БЛОК 1.2.1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="22" width="1050" height="62" as="geometry" />
+        <mxCell id="header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="ЛЕКЦИЯ 1 · ВОПРОС 1.2.1.2 · БЛОК 1.2.1" vertex="1">
+          <mxGeometry height="62" width="1050" x="24" y="22" as="geometry" />
         </mxCell>
-        <mxCell id="question" value="Какие типы определений культуры названы в лекции?" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="99" width="1050" height="105" as="geometry" />
+        <mxCell id="question" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" value="Какие типы определений культуры вы можете назвать?" vertex="1">
+          <mxGeometry height="105" width="1050" x="24" y="99" as="geometry" />
         </mxCell>
-        <mxCell id="choice_1" value="✓ Описательные" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="219" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Описательные" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="219" as="geometry" />
         </mxCell>
-        <mxCell id="choice_2" value="✓ Исторические" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="303" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Исторические" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="303" as="geometry" />
         </mxCell>
-        <mxCell id="choice_3" value="✓ Нормативные" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="387" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Нормативные" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="387" as="geometry" />
         </mxCell>
-        <mxCell id="choice_4" value="✓ Генетические" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="471" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Генетические" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="471" as="geometry" />
         </mxCell>
-        <mxCell id="choice_5" value="Климатические" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="555" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Антропоморфические" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="555" as="geometry" />
         </mxCell>
-        <mxCell id="explanation" value="К шести типам также относятся психологические и структурные, но не климатические." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="639" width="1050" height="114" as="geometry" />
+        <mxCell id="explanation" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" value="К шести типам также относятся психологические и структурные, но не климатические." vertex="1">
+          <mxGeometry height="114" width="1050" x="24" y="639" as="geometry" />
         </mxCell>
-        <mxCell id="difficulty" value="3" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="768" width="1050" height="58" as="geometry" />
+        <mxCell id="difficulty" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="2" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="768" as="geometry" />
         </mxCell>
-        <mxCell id="reference" value="19–32" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="841" width="1050" height="58" as="geometry" />
+        <mxCell id="reference" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="19–32" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="841" as="geometry" />
         </mxCell>
-        <mxCell id="note" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="914" width="1050" height="70" as="geometry" />
+        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." vertex="1">
+          <mxGeometry height="70" width="1050" x="24" y="914" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="question-1-2-2-1" name="1.2.2.1">
-    <mxGraphModel page="1" pageWidth="1120" pageHeight="960" grid="1" gridSize="10">
+    <mxGraphModel dx="1945" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="960" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="header" value="ЛЕКЦИЯ 1 · ВОПРОС 1.2.2.1 · БЛОК 1.2.2" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="22" width="1050" height="62" as="geometry" />
+        <mxCell id="header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="ЛЕКЦИЯ 1 · ВОПРОС 1.2.2.1 · БЛОК 1.2.2" vertex="1">
+          <mxGeometry height="62" width="1050" x="24" y="22" as="geometry" />
         </mxCell>
-        <mxCell id="question" value="Каковы три основные части культуры?" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="99" width="1050" height="105" as="geometry" />
+        <mxCell id="question" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" value="Каковы три основные части культуры?" vertex="1">
+          <mxGeometry height="105" width="1050" x="24" y="99" as="geometry" />
         </mxCell>
-        <mxCell id="choice_1" value="✓ Материальная" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="219" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Материальная" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="219" as="geometry" />
         </mxCell>
-        <mxCell id="choice_2" value="✓ Социальная" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="303" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Социальная" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="303" as="geometry" />
         </mxCell>
-        <mxCell id="choice_3" value="✓ Духовная" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="387" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Духовная" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="387" as="geometry" />
         </mxCell>
-        <mxCell id="choice_4" value="Геологическая" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="471" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Психологическая" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="471" as="geometry" />
         </mxCell>
-        <mxCell id="explanation" value="§1.2 выделяет материальную, социальную и духовную культуру." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="555" width="1050" height="114" as="geometry" />
+        <mxCell id="explanation" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" value="§1.2 выделяет материальную, социальную и духовную культуру." vertex="1">
+          <mxGeometry height="114" width="1050" x="24" y="555" as="geometry" />
         </mxCell>
-        <mxCell id="difficulty" value="2" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="684" width="1050" height="58" as="geometry" />
+        <mxCell id="difficulty" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="2" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="684" as="geometry" />
         </mxCell>
-        <mxCell id="reference" value="33–39" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="757" width="1050" height="58" as="geometry" />
+        <mxCell id="reference" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="33–39" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="757" as="geometry" />
         </mxCell>
-        <mxCell id="note" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="830" width="1050" height="70" as="geometry" />
+        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." vertex="1">
+          <mxGeometry height="70" width="1050" x="24" y="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="question-1-2-2-2" name="1.2.2.2">
-    <mxGraphModel page="1" pageWidth="1120" pageHeight="960" grid="1" gridSize="10">
+    <mxGraphModel dx="1945" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="960" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="header" value="ЛЕКЦИЯ 1 · ВОПРОС 1.2.2.2 · БЛОК 1.2.2" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="22" width="1050" height="62" as="geometry" />
+        <mxCell id="header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="ЛЕКЦИЯ 1 · ВОПРОС 1.2.2.2 · БЛОК 1.2.2" vertex="1">
+          <mxGeometry height="62" width="1050" x="24" y="22" as="geometry" />
         </mxCell>
-        <mxCell id="question" value="Что включает духовная культура в лекции?" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="99" width="1050" height="105" as="geometry" />
+        <mxCell id="question" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" value="Что включает в себя духовная культура?" vertex="1">
+          <mxGeometry height="105" width="1050" x="24" y="99" as="geometry" />
         </mxCell>
-        <mxCell id="choice_1" value="✓ Знания" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="219" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Знания" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="219" as="geometry" />
         </mxCell>
-        <mxCell id="choice_2" value="✓ Знаковое выражение и язык" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="303" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Знаковое выражение и язык" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="303" as="geometry" />
         </mxCell>
-        <mxCell id="choice_3" value="✓ Эмоционально-волевую сферу" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="387" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Эмоционально-волевую сферу" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="387" as="geometry" />
         </mxCell>
-        <mxCell id="choice_4" value="Только орудия производства" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="471" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="- Орудия производства&lt;br&gt;- Материалы и средства производства" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="471" as="geometry" />
         </mxCell>
-        <mxCell id="explanation" value="Духовная культура включает знания, психические состояния и знаковые формы выражения." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="555" width="1050" height="114" as="geometry" />
+        <mxCell id="explanation" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" value="Духовная культура включает знания, психические состояния и знаковые формы выражения." vertex="1">
+          <mxGeometry height="114" width="1050" x="24" y="555" as="geometry" />
         </mxCell>
-        <mxCell id="difficulty" value="3" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="684" width="1050" height="58" as="geometry" />
+        <mxCell id="difficulty" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="3" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="684" as="geometry" />
         </mxCell>
-        <mxCell id="reference" value="33–39" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="757" width="1050" height="58" as="geometry" />
+        <mxCell id="reference" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="33–39" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="757" as="geometry" />
         </mxCell>
-        <mxCell id="note" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="830" width="1050" height="70" as="geometry" />
+        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="Вопрос и ответы надо переработать, правильный ответ не совсем соответствует предложенным, неправильные ответы надо разнообразить и усилить, мое предложение тоже мне не нравится" vertex="1">
+          <mxGeometry height="70" width="1050" x="24" y="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
