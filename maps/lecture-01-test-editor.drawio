@@ -600,7 +600,7 @@
         <mxCell id="header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="ЛЕКЦИЯ 1 · ВОПРОС 1.5.1.3 · БЛОК 1.5.1" vertex="1">
           <mxGeometry height="62" width="1050" x="24" y="22" as="geometry" />
         </mxCell>
-        <mxCell id="question" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" value="Как автор соотносит православное мировоззрение с естествознанием?" vertex="1">
+        <mxCell id="question" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" value="Как соотносятся православное мировоззрение с естествознанием?" vertex="1">
           <mxGeometry height="105" width="1050" x="24" y="99" as="geometry" />
         </mxCell>
         <mxCell id="choice_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Различает их предметные области" vertex="1">
@@ -609,7 +609,7 @@
         <mxCell id="choice_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Отрицает необходимость принципиального конфликта" vertex="1">
           <mxGeometry height="69" width="1050" x="24" y="303" as="geometry" />
         </mxCell>
-        <mxCell id="choice_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Утверждает замену физических законов религиозными" vertex="1">
+        <mxCell id="choice_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Подразумевает замену физических законов религиозными" vertex="1">
           <mxGeometry height="69" width="1050" x="24" y="387" as="geometry" />
         </mxCell>
         <mxCell id="explanation" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" value="Автор высказывает позицию о совместимости при различении предметов." vertex="1">
@@ -621,7 +621,7 @@
         <mxCell id="reference" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="68–71" vertex="1">
           <mxGeometry height="58" width="1050" x="24" y="673" as="geometry" />
         </mxCell>
-        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." vertex="1">
+        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="Добавить еще один неправильный ответ" vertex="1">
           <mxGeometry height="70" width="1050" x="24" y="746" as="geometry" />
         </mxCell>
       </root>
