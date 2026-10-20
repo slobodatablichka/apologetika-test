@@ -1047,7 +1047,7 @@
         <mxCell id="choice_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Любая социология доказывает атеизм" vertex="1">
           <mxGeometry height="69" width="1050" x="24" y="303" as="geometry" />
         </mxCell>
-        <mxCell id="choice_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Все убеждения автоматически истинны" vertex="1">
+        <mxCell id="choice_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Все глубокие убеждения автоматически истинны" vertex="1">
           <mxGeometry height="69" width="1050" x="24" y="387" as="geometry" />
         </mxCell>
         <mxCell id="explanation" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" value="Из социальной функции нельзя логически вывести несуществование объекта веры." vertex="1">
@@ -1059,262 +1059,262 @@
         <mxCell id="reference" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="101–108" vertex="1">
           <mxGeometry height="58" width="1050" x="24" y="673" as="geometry" />
         </mxCell>
-        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." vertex="1">
+        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="Странноватый вопрос, надо его перефразировать. И добавить еще один неправильный ответ." vertex="1">
           <mxGeometry height="70" width="1050" x="24" y="746" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="question-1-8-3-1" name="1.8.3.1">
-    <mxGraphModel page="1" pageWidth="1120" pageHeight="876" grid="1" gridSize="10">
+    <mxGraphModel dx="1945" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="876" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="header" value="ЛЕКЦИЯ 1 · ВОПРОС 1.8.3.1 · БЛОК 1.8.3" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="22" width="1050" height="62" as="geometry" />
+        <mxCell id="header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="ЛЕКЦИЯ 1 · ВОПРОС 1.8.3.1 · БЛОК 1.8.3" vertex="1">
+          <mxGeometry height="62" width="1050" x="24" y="22" as="geometry" />
         </mxCell>
-        <mxCell id="question" value="Какая идея связывается с Ницше?" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="99" width="1050" height="105" as="geometry" />
+        <mxCell id="question" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" value="Какие идеи связываются с Ницше?" vertex="1">
+          <mxGeometry height="105" width="1050" x="24" y="99" as="geometry" />
         </mxCell>
-        <mxCell id="choice_1" value="✓ Сверхчеловек и критика христианской морали" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="219" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Сверхчеловек и критика христианской морали" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="219" as="geometry" />
         </mxCell>
-        <mxCell id="choice_2" value="Теория проекции Фейербаха" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="303" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;YS Text&amp;quot;, -apple-system, BlinkMacSystemFont, Arial, Helvetica, &amp;quot;Arial Unicode MS&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;Религия это проекция человеком своих собственных свойств, идеалов и стремлений.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="303" as="geometry" />
         </mxCell>
-        <mxCell id="choice_3" value="Только экономическое отчуждение" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="387" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Экономическое отчуждение, продукты деятельности человека господствуют над ним&amp;nbsp;" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="387" as="geometry" />
         </mxCell>
-        <mxCell id="explanation" value="В лекции изложены ницшевская критика морали и образ сверхчеловека." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="471" width="1050" height="114" as="geometry" />
+        <mxCell id="explanation" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" value="В лекции изложены ницшевская критика морали и образ сверхчеловека." vertex="1">
+          <mxGeometry height="114" width="1050" x="24" y="471" as="geometry" />
         </mxCell>
-        <mxCell id="difficulty" value="3" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="600" width="1050" height="58" as="geometry" />
+        <mxCell id="difficulty" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="3" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="reference" value="109–120" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="673" width="1050" height="58" as="geometry" />
+        <mxCell id="reference" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="109–120" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="673" as="geometry" />
         </mxCell>
-        <mxCell id="note" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="746" width="1050" height="70" as="geometry" />
+        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." vertex="1">
+          <mxGeometry height="70" width="1050" x="24" y="746" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="question-1-8-3-2" name="1.8.3.2">
-    <mxGraphModel page="1" pageWidth="1120" pageHeight="876" grid="1" gridSize="10">
+    <mxGraphModel dx="1945" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="876" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="header" value="ЛЕКЦИЯ 1 · ВОПРОС 1.8.3.2 · БЛОК 1.8.3" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="22" width="1050" height="62" as="geometry" />
+        <mxCell id="header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="ЛЕКЦИЯ 1 · ВОПРОС 1.8.3.2 · БЛОК 1.8.3" vertex="1">
+          <mxGeometry height="62" width="1050" x="24" y="22" as="geometry" />
         </mxCell>
-        <mxCell id="question" value="Какой мотив важен в психоаналитическом объяснении Фрейда?" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="99" width="1050" height="105" as="geometry" />
+        <mxCell id="question" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" value="Какой мотив важен в психоаналитическом объяснении Фрейда?" vertex="1">
+          <mxGeometry height="105" width="1050" x="24" y="99" as="geometry" />
         </mxCell>
-        <mxCell id="choice_1" value="✓ Потребность защиты и образ отца" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="219" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Потребность защиты и образ отца" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="219" as="geometry" />
         </mxCell>
-        <mxCell id="choice_2" value="Классовая борьба" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="303" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Классовая борьба" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="303" as="geometry" />
         </mxCell>
-        <mxCell id="choice_3" value="Тождество Бога и мира" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="387" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Тождество Бога и мира" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="387" as="geometry" />
         </mxCell>
-        <mxCell id="explanation" value="Фрейд связывает религиозные представления с психологической потребностью защиты." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="471" width="1050" height="114" as="geometry" />
+        <mxCell id="explanation" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" value="Фрейд связывает религиозные представления с психологической потребностью защиты." vertex="1">
+          <mxGeometry height="114" width="1050" x="24" y="471" as="geometry" />
         </mxCell>
-        <mxCell id="difficulty" value="3" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="600" width="1050" height="58" as="geometry" />
+        <mxCell id="difficulty" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="3" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="reference" value="109–120" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="673" width="1050" height="58" as="geometry" />
+        <mxCell id="reference" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="109–120" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="673" as="geometry" />
         </mxCell>
-        <mxCell id="note" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="746" width="1050" height="70" as="geometry" />
+        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="добавить еще один неправильный ответ" vertex="1">
+          <mxGeometry height="70" width="1050" x="24" y="746" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="question-1-9-1-1" name="1.9.1.1">
-    <mxGraphModel page="1" pageWidth="1120" pageHeight="1044" grid="1" gridSize="10">
+    <mxGraphModel dx="1945" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="1044" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="header" value="ЛЕКЦИЯ 1 · ВОПРОС 1.9.1.1 · БЛОК 1.9.1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="22" width="1050" height="62" as="geometry" />
+        <mxCell id="header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="ЛЕКЦИЯ 1 · ВОПРОС 1.9.1.1 · БЛОК 1.9.1" vertex="1">
+          <mxGeometry height="62" width="1050" x="24" y="22" as="geometry" />
         </mxCell>
-        <mxCell id="question" value="Какие четыре направления апологетики названы преподавателем?" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="99" width="1050" height="105" as="geometry" />
+        <mxCell id="question" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" value="Назовите основные направления апологетики:" vertex="1">
+          <mxGeometry height="105" width="1050" x="24" y="99" as="geometry" />
         </mxCell>
-        <mxCell id="choice_1" value="✓ Богословское" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="219" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Богословское" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="219" as="geometry" />
         </mxCell>
-        <mxCell id="choice_2" value="✓ Историческое" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="303" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Историческое" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="303" as="geometry" />
         </mxCell>
-        <mxCell id="choice_3" value="✓ Философское" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="387" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Философское" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="387" as="geometry" />
         </mxCell>
-        <mxCell id="choice_4" value="✓ Естественнонаучное" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="471" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Естественнонаучное" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="471" as="geometry" />
         </mxCell>
-        <mxCell id="choice_5" value="Финансовое" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="555" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Финансовое" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="555" as="geometry" />
         </mxCell>
-        <mxCell id="explanation" value="§1.9 выделяет четыре направления, не включая финансовое." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="639" width="1050" height="114" as="geometry" />
+        <mxCell id="explanation" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" value="§1.9 выделяет четыре направления, не включая финансовое." vertex="1">
+          <mxGeometry height="114" width="1050" x="24" y="639" as="geometry" />
         </mxCell>
-        <mxCell id="difficulty" value="2" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="768" width="1050" height="58" as="geometry" />
+        <mxCell id="difficulty" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="2" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="768" as="geometry" />
         </mxCell>
-        <mxCell id="reference" value="122–125" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="841" width="1050" height="58" as="geometry" />
+        <mxCell id="reference" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="122–125" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="841" as="geometry" />
         </mxCell>
-        <mxCell id="note" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="914" width="1050" height="70" as="geometry" />
+        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="Добавить еще два неправильных ответа" vertex="1">
+          <mxGeometry height="70" width="1050" x="24" y="914" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="question-1-9-1-2" name="1.9.1.2">
-    <mxGraphModel page="1" pageWidth="1120" pageHeight="876" grid="1" gridSize="10">
+    <mxGraphModel dx="1945" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="876" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="header" value="ЛЕКЦИЯ 1 · ВОПРОС 1.9.1.2 · БЛОК 1.9.1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="22" width="1050" height="62" as="geometry" />
+        <mxCell id="header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="ЛЕКЦИЯ 1 · ВОПРОС 1.9.1.2 · БЛОК 1.9.1" vertex="1">
+          <mxGeometry height="62" width="1050" x="24" y="22" as="geometry" />
         </mxCell>
-        <mxCell id="question" value="Какова задача богословской апологетики?" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="99" width="1050" height="105" as="geometry" />
+        <mxCell id="question" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" value="Какова задача богословской апологетики?" vertex="1">
+          <mxGeometry height="105" width="1050" x="24" y="99" as="geometry" />
         </mxCell>
-        <mxCell id="choice_1" value="✓ Раскрывать и обосновывать христианские истины" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="219" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Раскрывать и обосновывать христианские истины" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="219" as="geometry" />
         </mxCell>
-        <mxCell id="choice_2" value="Изучать только географию" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="303" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Изучение космологии." vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="303" as="geometry" />
         </mxCell>
-        <mxCell id="choice_3" value="Исследовать только технику" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="387" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Исследование техники" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="387" as="geometry" />
         </mxCell>
-        <mxCell id="explanation" value="Рассматриваются истины веры и жизни в сравнении с возражениями." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="471" width="1050" height="114" as="geometry" />
+        <mxCell id="explanation" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" value="Рассматриваются истины веры и жизни в сравнении с возражениями." vertex="1">
+          <mxGeometry height="114" width="1050" x="24" y="471" as="geometry" />
         </mxCell>
-        <mxCell id="difficulty" value="2" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="600" width="1050" height="58" as="geometry" />
+        <mxCell id="difficulty" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="2" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="reference" value="122–125" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="673" width="1050" height="58" as="geometry" />
+        <mxCell id="reference" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="122–125" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="673" as="geometry" />
         </mxCell>
-        <mxCell id="note" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="746" width="1050" height="70" as="geometry" />
+        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="Добавить: Доказать существование Бога." vertex="1">
+          <mxGeometry height="70" width="1050" x="24" y="746" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="question-1-9-2-1" name="1.9.2.1">
-    <mxGraphModel page="1" pageWidth="1120" pageHeight="960" grid="1" gridSize="10">
+    <mxGraphModel dx="1945" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="960" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="header" value="ЛЕКЦИЯ 1 · ВОПРОС 1.9.2.1 · БЛОК 1.9.2" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="22" width="1050" height="62" as="geometry" />
+        <mxCell id="header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="ЛЕКЦИЯ 1 · ВОПРОС 1.9.2.1 · БЛОК 1.9.2" vertex="1">
+          <mxGeometry height="62" width="1050" x="24" y="22" as="geometry" />
         </mxCell>
-        <mxCell id="question" value="Какие области связаны с философской апологетикой?" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="99" width="1050" height="105" as="geometry" />
+        <mxCell id="question" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" value="Какие области связаны с философской апологетикой?" vertex="1">
+          <mxGeometry height="105" width="1050" x="24" y="99" as="geometry" />
         </mxCell>
-        <mxCell id="choice_1" value="✓ Онтология" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="219" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Онтология" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="219" as="geometry" />
         </mxCell>
-        <mxCell id="choice_2" value="✓ Гносеология" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="303" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Гносеология" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="303" as="geometry" />
         </mxCell>
-        <mxCell id="choice_3" value="✓ Антропология" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="387" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Антропология" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="387" as="geometry" />
         </mxCell>
-        <mxCell id="choice_4" value="Исключительно метрология" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="471" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Метрология" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="471" as="geometry" />
         </mxCell>
-        <mxCell id="explanation" value="§1.9 разбирает бытие, познание и человека." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="555" width="1050" height="114" as="geometry" />
+        <mxCell id="explanation" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" value="§1.9 разбирает бытие, познание и человека." vertex="1">
+          <mxGeometry height="114" width="1050" x="24" y="555" as="geometry" />
         </mxCell>
-        <mxCell id="difficulty" value="4" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="684" width="1050" height="58" as="geometry" />
+        <mxCell id="difficulty" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="4" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="684" as="geometry" />
         </mxCell>
-        <mxCell id="reference" value="126–139" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="757" width="1050" height="58" as="geometry" />
+        <mxCell id="reference" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="126–139" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="757" as="geometry" />
         </mxCell>
-        <mxCell id="note" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="830" width="1050" height="70" as="geometry" />
+        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="Психология - добавить." vertex="1">
+          <mxGeometry height="70" width="1050" x="24" y="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="question-1-9-2-2" name="1.9.2.2">
-    <mxGraphModel page="1" pageWidth="1120" pageHeight="876" grid="1" gridSize="10">
+    <mxGraphModel dx="1945" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="876" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="header" value="ЛЕКЦИЯ 1 · ВОПРОС 1.9.2.2 · БЛОК 1.9.2" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="22" width="1050" height="62" as="geometry" />
+        <mxCell id="header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="ЛЕКЦИЯ 1 · ВОПРОС 1.9.2.2 · БЛОК 1.9.2" vertex="1">
+          <mxGeometry height="62" width="1050" x="24" y="22" as="geometry" />
         </mxCell>
-        <mxCell id="question" value="Какова основная задача естественнонаучной апологетики у автора?" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="99" width="1050" height="105" as="geometry" />
+        <mxCell id="question" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" value="Какова основная задача естественнонаучной апологетики?" vertex="1">
+          <mxGeometry height="105" width="1050" x="24" y="99" as="geometry" />
         </mxCell>
-        <mxCell id="choice_1" value="✓ Побуждать к размышлению о Первопричине на основании устроенности мира" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="219" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Побуждать к размышлению о Первопричине на основании устроенности мира" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="219" as="geometry" />
         </mxCell>
-        <mxCell id="choice_2" value="Отказываться от изучения природы" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="303" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Сместить внимание от изучения природы в направлении изучения Бога" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="303" as="geometry" />
         </mxCell>
-        <mxCell id="choice_3" value="Заменять все исследования цитатами" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="387" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Научиться правильно цитировать Библию" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="387" as="geometry" />
         </mxCell>
-        <mxCell id="explanation" value="Автор делает акцент на размышлении о Первопричине и целесообразности." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="471" width="1050" height="114" as="geometry" />
+        <mxCell id="explanation" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" value="Автор делает акцент на размышлении о Первопричине и целесообразности." vertex="1">
+          <mxGeometry height="114" width="1050" x="24" y="471" as="geometry" />
         </mxCell>
-        <mxCell id="difficulty" value="3" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="600" width="1050" height="58" as="geometry" />
+        <mxCell id="difficulty" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="3" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="reference" value="126–139" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="673" width="1050" height="58" as="geometry" />
+        <mxCell id="reference" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="126–139" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="673" as="geometry" />
         </mxCell>
-        <mxCell id="note" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="746" width="1050" height="70" as="geometry" />
+        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." vertex="1">
+          <mxGeometry height="70" width="1050" x="24" y="746" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="question-1-9-2-3" name="1.9.2.3">
-    <mxGraphModel page="1" pageWidth="1120" pageHeight="876" grid="1" gridSize="10">
+    <mxGraphModel dx="1945" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="876" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="header" value="ЛЕКЦИЯ 1 · ВОПРОС 1.9.2.3 · БЛОК 1.9.2" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="22" width="1050" height="62" as="geometry" />
+        <mxCell id="header" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#dce9f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="ЛЕКЦИЯ 1 · ВОПРОС 1.9.2.3 · БЛОК 1.9.2" vertex="1">
+          <mxGeometry height="62" width="1050" x="24" y="22" as="geometry" />
         </mxCell>
-        <mxCell id="question" value="Что относится к исторической апологетике?" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="99" width="1050" height="105" as="geometry" />
+        <mxCell id="question" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e8f0f9;strokeColor=#93a8bc;strokeWidth=1.5;" value="Что относится к исторической апологетике?" vertex="1">
+          <mxGeometry height="105" width="1050" x="24" y="99" as="geometry" />
         </mxCell>
-        <mxCell id="choice_1" value="✓ Исторические свидетельства" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="219" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Исторические свидетельства" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="219" as="geometry" />
         </mxCell>
-        <mxCell id="choice_2" value="✓ Гипотезы происхождения религии" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="303" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#e6f5e9;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ Гипотезы происхождения религии" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="303" as="geometry" />
         </mxCell>
-        <mxCell id="choice_3" value="Только инженерное проектирование" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="387" width="1050" height="69" as="geometry" />
+        <mxCell id="choice_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#ffffff;strokeColor=#93a8bc;strokeWidth=1.5;" value="Исторический детерминизм" vertex="1">
+          <mxGeometry height="69" width="1050" x="24" y="387" as="geometry" />
         </mxCell>
-        <mxCell id="explanation" value="Исторический раздел включает историческую аргументацию и критический разбор гипотез." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="471" width="1050" height="114" as="geometry" />
+        <mxCell id="explanation" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#edf3f8;strokeColor=#93a8bc;strokeWidth=1.5;" value="Исторический раздел включает историческую аргументацию и критический разбор гипотез." vertex="1">
+          <mxGeometry height="114" width="1050" x="24" y="471" as="geometry" />
         </mxCell>
-        <mxCell id="difficulty" value="3" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="600" width="1050" height="58" as="geometry" />
+        <mxCell id="difficulty" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="3" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="reference" value="126–139" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="673" width="1050" height="58" as="geometry" />
+        <mxCell id="reference" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="126–139" vertex="1">
+          <mxGeometry height="58" width="1050" x="24" y="673" as="geometry" />
         </mxCell>
-        <mxCell id="note" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="24" y="746" width="1050" height="70" as="geometry" />
+        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." vertex="1">
+          <mxGeometry height="70" width="1050" x="24" y="746" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
