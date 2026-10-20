@@ -1313,7 +1313,7 @@
         <mxCell id="reference" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#fff8e8;strokeColor=#93a8bc;strokeWidth=1.5;" value="126–139" vertex="1">
           <mxGeometry height="58" width="1050" x="24" y="673" as="geometry" />
         </mxCell>
-        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="✓ отмечает правильные ответы. Дважды щёлкните по полю, чтобы изменить его. При изменении количества ответов сообщите мне." vertex="1">
+        <mxCell id="note" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacingLeft=16;spacingRight=16;fontSize=18;fillColor=#f3f4f6;strokeColor=#93a8bc;strokeWidth=1.5;" value="Добавить еще один неправильный ответ" vertex="1">
           <mxGeometry height="70" width="1050" x="24" y="746" as="geometry" />
         </mxCell>
       </root>
