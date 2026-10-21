@@ -1,0 +1,77 @@
+[
+  {
+    "number": "00",
+    "title": "Тест преподавателя",
+    "path": "./"
+  },
+  {
+    "number": "01",
+    "title": "Предмет и задачи курса",
+    "path": "tests/lecture-01.html"
+  },
+  {
+    "number": "03",
+    "title": "Основания науки",
+    "path": "tests/lecture-03.html"
+  },
+  {
+    "number": "04",
+    "title": "Понятие и сущность религии",
+    "path": "tests/lecture-04.html"
+  },
+  {
+    "number": "05",
+    "title": "Происхождение и многообразие религий",
+    "path": "tests/lecture-05.html"
+  },
+  {
+    "number": "06",
+    "title": "Божественное Откровение",
+    "path": "tests/lecture-06.html"
+  },
+  {
+    "number": "07",
+    "title": "Вера и разум",
+    "path": "tests/lecture-07.html"
+  },
+  {
+    "number": "08",
+    "title": "Доказательства бытия Бога",
+    "path": "tests/lecture-08.html"
+  },
+  {
+    "number": "09",
+    "title": "Естественно-научная апологетика",
+    "path": "tests/lecture-09.html"
+  },
+  {
+    "number": "10",
+    "title": "Природа чуда",
+    "path": "tests/lecture-10.html"
+  },
+  {
+    "number": "11",
+    "title": "Историческая апологетика",
+    "path": "tests/lecture-11.html"
+  },
+  {
+    "number": "13",
+    "title": "Взаимодействие науки и религии",
+    "path": "tests/lecture-13.html"
+  },
+  {
+    "number": "14",
+    "title": "Духовно-нравственные ориентиры в медиапространстве",
+    "path": "drafts/lecture-14.html"
+  },
+  {
+    "number": "15",
+    "title": "Наука и религия в России",
+    "path": "tests/lecture-15.html"
+  },
+  {
+    "number": "16",
+    "title": "Трансгуманизм",
+    "path": "tests/lecture-16.html"
+  }
+]
