@@ -5,11 +5,15 @@ function init(section='all'){set=bank.filter(q=>section==='all'||q.section===sec
 function show(){const q=set[index];if(!q){$('panel').classList.add('hidden');$('results').classList.remove('hidden');$('results').innerHTML='<h2>Тест завершён</h2><p>Верных ответов: '+score+' из '+set.length+' ('+Math.round(100*score/Math.max(1,set.length))+'%).</p>';return;}done=false;$('progress').textContent='Вопрос '+(index+1)+' из '+set.length;$('question').textContent=q.id+'. '+q.question;$('meta').textContent='Блок '+q.block+' · предварительная сложность '+q.difficulty+'/5 · Источник: '+q.sourceParagraphs;const el=$('options');el.replaceChildren();const kind=q.correct.length===1?'radio':'checkbox';for(const o of q.shuffledOptions){const label=document.createElement('label');label.className='choice';const input=document.createElement('input');input.type=kind;input.name='answer';input.value=o.id;input.addEventListener('change',()=>{document.getElementById('answerPrompt').classList.add('hidden')});label.append(input,document.createTextNode(o.text));el.append(label)}$('check').disabled=false;$('next').disabled=true;$('feedback').classList.add('hidden');$('answerPrompt').classList.add('hidden')}
 $('check').onclick=()=>{if(done)return;const q=set[index],chosen=[...document.querySelectorAll('#options input:checked')].map(x=>x.value),actual=q.correct;if(!chosen.length){$('answerPrompt').classList.remove('hidden');return;}const valid=chosen.length===actual.length&&chosen.every(x=>actual.includes(x));if(valid)score++;done=true;document.querySelectorAll('#options input').forEach(x=>x.disabled=true);
 const labels=ids=>q.options.filter(o=>ids.includes(o.id)).map(o=>o.text);
-const rightChosen=chosen.filter(id=>actual.includes(id)),wrongChosen=chosen.filter(id=>!actual.includes(id)),missed=actual.filter(id=>!chosen.includes(id));
-const f=$('feedback');f.replaceChildren();const line=(head,values)=>{const p=document.createElement('span');p.style.display='block';p.style.marginBottom='6px';p.textContent=head+': '+(values.length?labels(values).join('; '):'нет');f.append(p)};
-const intro=document.createElement('strong');intro.textContent=valid?'Верно.':'Ответ неполный или ошибочный.';f.append(intro);
-line('Верно выбранные',rightChosen);line('Ошибочно выбранные',wrongChosen);line('Пропущенные правильные',missed);line('Полный правильный набор',actual);
-const explanation=document.createElement('span');explanation.style.display='block';explanation.style.marginTop='10px';explanation.textContent=q.explanation;f.append(explanation);
+const wrongChosen=chosen.filter(id=>!actual.includes(id)),missed=actual.filter(id=>!chosen.includes(id));
+const f=$('feedback');f.replaceChildren();
+const intro=document.createElement('strong');intro.textContent=valid?'Верно.':'Неверно.';f.append(intro);
+const line=(head,ids)=>{if(!ids.length)return;const p=document.createElement('div');p.style.marginTop='7px';p.textContent=head+': '+labels(ids).join('; ');f.append(p)};
+if(!valid){
+ if(actual.length===1)line('Правильный ответ',actual);
+ else {line('Ошибочно выбраны',wrongChosen);line('Пропущены правильные',missed);}
+}
+const explanation=document.createElement('div');explanation.style.marginTop='9px';explanation.textContent=q.explanation;f.append(explanation);
 f.classList.remove('hidden');f.classList.toggle('good',valid);f.classList.toggle('bad',!valid);$('check').disabled=true;$('next').disabled=false;};
 $('next').onclick=()=>{index++;show()};$('restart').onclick=()=>init($('section').value);$('section').onchange=()=>init($('section').value);
 fetch('lecture-03-bank.json').then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{bank=data.questions;const secs=[...new Set(bank.map(q=>q.section))];for(const s of secs)$('section').add(new Option(s,s));init()}).catch(e=>{$('question').textContent='Не удалось загрузить банк: '+e.message});
