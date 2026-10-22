@@ -1,77 +1,212 @@
 [
   {
-    "number": "00",
-    "title": "Тест преподавателя",
-    "path": "./"
+    "group": "Итоговые тесты",
+    "items": [
+      {
+        "label": "Подборка 1",
+        "items": [
+          {
+            "label": "Тест 1",
+            "path": "final/?collection=1&variant=1"
+          },
+          {
+            "label": "Тест 2",
+            "path": "final/?collection=1&variant=2"
+          },
+          {
+            "label": "Тест 3",
+            "path": "final/?collection=1&variant=3"
+          },
+          {
+            "label": "Тест 4",
+            "path": "final/?collection=1&variant=4"
+          },
+          {
+            "label": "Тест 5",
+            "path": "final/?collection=1&variant=5"
+          },
+          {
+            "label": "Тест 6",
+            "path": "final/?collection=1&variant=6"
+          },
+          {
+            "label": "Тест 7",
+            "path": "final/?collection=1&variant=7"
+          },
+          {
+            "label": "Тест 8",
+            "path": "final/?collection=1&variant=8"
+          },
+          {
+            "label": "Тест 9",
+            "path": "final/?collection=1&variant=9"
+          },
+          {
+            "label": "Тест 10",
+            "path": "final/?collection=1&variant=10"
+          }
+        ]
+      },
+      {
+        "label": "Подборка 2",
+        "items": [
+          {
+            "label": "Тест 1",
+            "path": "final/?collection=2&variant=1"
+          },
+          {
+            "label": "Тест 2",
+            "path": "final/?collection=2&variant=2"
+          },
+          {
+            "label": "Тест 3",
+            "path": "final/?collection=2&variant=3"
+          },
+          {
+            "label": "Тест 4",
+            "path": "final/?collection=2&variant=4"
+          },
+          {
+            "label": "Тест 5",
+            "path": "final/?collection=2&variant=5"
+          },
+          {
+            "label": "Тест 6",
+            "path": "final/?collection=2&variant=6"
+          },
+          {
+            "label": "Тест 7",
+            "path": "final/?collection=2&variant=7"
+          },
+          {
+            "label": "Тест 8",
+            "path": "final/?collection=2&variant=8"
+          },
+          {
+            "label": "Тест 9",
+            "path": "final/?collection=2&variant=9"
+          },
+          {
+            "label": "Тест 10",
+            "path": "final/?collection=2&variant=10"
+          }
+        ]
+      },
+      {
+        "label": "Подборка 3",
+        "items": [
+          {
+            "label": "Тест 1",
+            "path": "final/?collection=3&variant=1"
+          },
+          {
+            "label": "Тест 2",
+            "path": "final/?collection=3&variant=2"
+          },
+          {
+            "label": "Тест 3",
+            "path": "final/?collection=3&variant=3"
+          },
+          {
+            "label": "Тест 4",
+            "path": "final/?collection=3&variant=4"
+          },
+          {
+            "label": "Тест 5",
+            "path": "final/?collection=3&variant=5"
+          },
+          {
+            "label": "Тест 6",
+            "path": "final/?collection=3&variant=6"
+          },
+          {
+            "label": "Тест 7",
+            "path": "final/?collection=3&variant=7"
+          },
+          {
+            "label": "Тест 8",
+            "path": "final/?collection=3&variant=8"
+          },
+          {
+            "label": "Тест 9",
+            "path": "final/?collection=3&variant=9"
+          },
+          {
+            "label": "Тест 10",
+            "path": "final/?collection=3&variant=10"
+          }
+        ]
+      }
+    ]
   },
   {
-    "number": "01",
-    "title": "Предмет и задачи курса",
-    "path": "tests/lecture-01.html"
+    "group": "Тест преподавателя",
+    "items": [
+      {
+        "label": "Тест преподавателя",
+        "path": "./"
+      }
+    ]
   },
   {
-    "number": "03",
-    "title": "Основания науки",
-    "path": "tests/lecture-03.html"
-  },
-  {
-    "number": "04",
-    "title": "Понятие и сущность религии",
-    "path": "tests/lecture-04.html"
-  },
-  {
-    "number": "05",
-    "title": "Происхождение и многообразие религий",
-    "path": "tests/lecture-05.html"
-  },
-  {
-    "number": "06",
-    "title": "Божественное Откровение",
-    "path": "tests/lecture-06.html"
-  },
-  {
-    "number": "07",
-    "title": "Вера и разум",
-    "path": "tests/lecture-07.html"
-  },
-  {
-    "number": "08",
-    "title": "Доказательства бытия Бога",
-    "path": "tests/lecture-08.html"
-  },
-  {
-    "number": "09",
-    "title": "Естественно-научная апологетика",
-    "path": "tests/lecture-09.html"
-  },
-  {
-    "number": "10",
-    "title": "Природа чуда",
-    "path": "tests/lecture-10.html"
-  },
-  {
-    "number": "11",
-    "title": "Историческая апологетика",
-    "path": "tests/lecture-11.html"
-  },
-  {
-    "number": "13",
-    "title": "Взаимодействие науки и религии",
-    "path": "tests/lecture-13.html"
-  },
-  {
-    "number": "14",
-    "title": "Духовно-нравственные ориентиры в медиапространстве",
-    "path": "drafts/lecture-14.html"
-  },
-  {
-    "number": "15",
-    "title": "Наука и религия в России",
-    "path": "tests/lecture-15.html"
-  },
-  {
-    "number": "16",
-    "title": "Трансгуманизм",
-    "path": "tests/lecture-16.html"
+    "group": "Тематические тесты",
+    "items": [
+      {
+        "label": "01 — Предмет и задачи курса",
+        "path": "tests/lecture-01.html"
+      },
+      {
+        "label": "03 — Основания науки",
+        "path": "tests/lecture-03.html"
+      },
+      {
+        "label": "04 — Понятие и сущность религии",
+        "path": "tests/lecture-04.html"
+      },
+      {
+        "label": "05 — Происхождение и многообразие религий",
+        "path": "tests/lecture-05.html"
+      },
+      {
+        "label": "06 — Божественное Откровение",
+        "path": "tests/lecture-06.html"
+      },
+      {
+        "label": "07 — Вера и разум",
+        "path": "tests/lecture-07.html"
+      },
+      {
+        "label": "08 — Доказательства бытия Бога",
+        "path": "tests/lecture-08.html"
+      },
+      {
+        "label": "09 — Естественно-научная апологетика",
+        "path": "tests/lecture-09.html"
+      },
+      {
+        "label": "10 — Природа чуда",
+        "path": "tests/lecture-10.html"
+      },
+      {
+        "label": "11 — Историческая апологетика",
+        "path": "tests/lecture-11.html"
+      },
+      {
+        "label": "13 — Взаимодействие науки и религии",
+        "path": "tests/lecture-13.html"
+      },
+      {
+        "label": "14 — Духовно-нравственные ориентиры в медиапространстве",
+        "path": "drafts/lecture-14.html"
+      },
+      {
+        "label": "15 — Наука и религия в России",
+        "path": "tests/lecture-15.html"
+      },
+      {
+        "label": "16 — Трансгуманизм",
+        "path": "tests/lecture-16.html"
+      }
+    ]
   }
 ]
